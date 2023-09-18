@@ -1,0 +1,17 @@
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\bin\Debug\net7.0\HR_managment.Infrastructure.deps.json
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\bin\Debug\net7.0\HR_managment.Infrastructure.dll
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\bin\Debug\net7.0\HR_managment.Infrastructure.pdb
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\bin\Debug\net7.0\HR_Managment.Application.dll
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\bin\Debug\net7.0\HR_Managment.Domain.dll
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\bin\Debug\net7.0\HR_Managment.Application.pdb
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\bin\Debug\net7.0\HR_Managment.Domain.pdb
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\HR_managment.Infrastructure.csproj.AssemblyReference.cache
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\HR_managment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\HR_managment.Infrastructure.AssemblyInfoInputs.cache
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\HR_managment.Infrastructure.AssemblyInfo.cs
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\HR_managment.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\HR_managment.Infrastructure.csproj.CopyComplete
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\HR_managment.Infrastructure.dll
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\refint\HR_managment.Infrastructure.dll
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\HR_managment.Infrastructure.pdb
+E:\Zohre\Projects\HR_Managment\HR_managment.Infrastructure\obj\Debug\net7.0\ref\HR_managment.Infrastructure.dll

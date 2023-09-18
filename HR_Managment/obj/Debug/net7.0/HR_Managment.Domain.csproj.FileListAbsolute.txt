@@ -1,0 +1,12 @@
+E:\Zohre\Projects\HR_Managment\HR_Managment\bin\Debug\net7.0\HR_Managment.Domain.deps.json
+E:\Zohre\Projects\HR_Managment\HR_Managment\bin\Debug\net7.0\HR_Managment.Domain.dll
+E:\Zohre\Projects\HR_Managment\HR_Managment\bin\Debug\net7.0\HR_Managment.Domain.pdb
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\HR_Managment.Domain.csproj.AssemblyReference.cache
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\HR_Managment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\HR_Managment.Domain.AssemblyInfoInputs.cache
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\HR_Managment.Domain.AssemblyInfo.cs
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\HR_Managment.Domain.csproj.CoreCompileInputs.cache
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\HR_Managment.Domain.dll
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\refint\HR_Managment.Domain.dll
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\HR_Managment.Domain.pdb
+E:\Zohre\Projects\HR_Managment\HR_Managment\obj\Debug\net7.0\ref\HR_Managment.Domain.dll
