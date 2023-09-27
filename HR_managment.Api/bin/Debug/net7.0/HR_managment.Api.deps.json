@@ -9,7 +9,6 @@
       "HR_managment.Api/1.0.0": {
         "dependencies": {
           "HR_Managment.Application": "1.0.0",
-          "HR_Managment.Domain": "1.0.0",
           "HR_managment.Infrastructure": "1.0.0",
           "HR_managment.Persistence": "1.0.0",
           "MediatR": "12.1.1",

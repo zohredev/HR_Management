@@ -3829,7 +3829,6 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "HR_Managment.Application >= 1.0.0",
-      "HR_Managment.Domain >= 1.0.0",
       "HR_managment.Infrastructure >= 1.0.0",
       "HR_managment.Persistence >= 1.0.0",
       "MediatR >= 12.1.1",
@@ -3874,9 +3873,6 @@
             },
             "E:\\Zohre\\Projects\\HR_Managment\\HR_managment.Persistence\\HR_managment.Persistence.csproj": {
               "projectPath": "E:\\Zohre\\Projects\\HR_Managment\\HR_managment.Persistence\\HR_managment.Persistence.csproj"
-            },
-            "E:\\Zohre\\Projects\\HR_Managment\\HR_Managment\\HR_Managment.Domain.csproj": {
-              "projectPath": "E:\\Zohre\\Projects\\HR_Managment\\HR_Managment\\HR_Managment.Domain.csproj"
             }
           }
         }

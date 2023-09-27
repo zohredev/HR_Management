@@ -21,7 +21,6 @@
     <ProjectReference Include="..\HR_Managment.Application\HR_Managment.Application.csproj" />
     <ProjectReference Include="..\HR_managment.Infrastructure\HR_managment.Infrastructure.csproj" />
     <ProjectReference Include="..\HR_managment.Persistence\HR_managment.Persistence.csproj" />
-    <ProjectReference Include="..\HR_Managment\HR_Managment.Domain.csproj" />
   </ItemGroup>
 
 </Project>
